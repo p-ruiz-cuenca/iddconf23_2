@@ -1,0 +1,24 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.5.0
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "iddconf23_2" in publications use:'
+type: software
+license: GPL-2.0-or-later
+title: 'iddconf23_2: The Title of the Project'
+version: 0.0.0.9000
+abstract: A paragraph providing a full description of the project (on several lines...)
+authors:
+- family-names: Ruiz Cuenca
+  given-names: Pablo
+  email: p.ruizcuenca@lancaster.ac.uk
+  orcid: https://orcid.org/0000-0002-2180-9509
+repository-code: https://github.com/p-ruiz-cuenca/iddconf23_2
+url: https://github.com/p-ruiz-cuenca/iddconf23_2
+contact:
+- family-names: Ruiz Cuenca
+  given-names: Pablo
+  email: p.ruizcuenca@lancaster.ac.uk
+  orcid: https://orcid.org/0000-0002-2180-9509
