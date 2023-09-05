@@ -1,6 +1,6 @@
 Package: iddconf23_2
 Type: Package
-Title: The Title of the Project
+Title: Epiverse Workshop IDDConf23 
 Version: 0.0.0.9000
 Authors@R: c(
     person(given   = "Pablo",
